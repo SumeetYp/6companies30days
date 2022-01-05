@@ -6,21 +6,21 @@ class goldmanprblm_4
    public static void main(String[] args) 
    {
  
-      Scanner sc = new Scanner(System.in);
-    
-	  int T = sc.nextInt();
-	  sc.nextLine();
-	  while(T>0)
-	  {
-		  
-		String str = sc.nextLine();
-		
-		GfG g = new GfG();
-		System.out.println(g.encode(str));
-		
-      
-        T--;
-	  }
+      try (Scanner sc = new Scanner(System.in)) {
+        int T = sc.nextInt();
+          sc.nextLine();
+          while(T>0)
+          {
+        	  
+        	String str = sc.nextLine();
+        	
+        	GfG g = new GfG();
+        	System.out.println(g.encode(str));
+        	
+          
+            T--;
+          }
+    }
    }
 }
 

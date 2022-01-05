@@ -1,4 +1,4 @@
-public class golmanprblm_7 {
+public class goldmanprblm_7 {
 	static int lastPosition(int n, int m, int k)
 	{
         if (m <= n - k + 1)

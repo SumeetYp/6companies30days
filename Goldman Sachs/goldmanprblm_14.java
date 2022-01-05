@@ -3,16 +3,17 @@ import java.util.*;
 public class goldmanprblm_14{
     
     public static void main(String[] args){
-    Scanner scn = new Scanner(System.in);
-    int n = scn.nextInt();
-    int t = scn.nextInt();
-    int[] nums = new int[n];
-    for(int i=0;i<n;i++){
-        nums[i] = scn.nextInt();
-    }
+    try (Scanner scn = new Scanner(System.in)) {
+        int n = scn.nextInt();
+        int t = scn.nextInt();
+        int[] nums = new int[n];
+        for(int i=0;i<n;i++){
+            nums[i] = scn.nextInt();
+        }
 
-    int res = minSubArrayLen(t,nums);
-    System.out.println(res);
+        int res = minSubArrayLen(t,nums);
+        System.out.println(res);
+    }
 }
 
 public static int minSubArrayLen(int target, int[] nums) {

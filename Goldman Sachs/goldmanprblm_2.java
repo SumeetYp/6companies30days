@@ -2,7 +2,6 @@
 // Initial Template for Java
 
 import java.io.*;
-import java.util.*;
 
 class goldmanprblm_2 {
     public static void main(String args[]) throws IOException {

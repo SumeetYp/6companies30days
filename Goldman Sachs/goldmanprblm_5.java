@@ -1,5 +1,20 @@
+import java.util.*;
+
+class goldmanprblm_5{
+    public static void main(String[] args) {
+        try (Scanner scn = new Scanner(System.in)) {
+            int n = scn.nextInt();
+            long res = Solution.getNthUglyNo(n);
+            
+            System.out.println(res);
+        }
+
+    }
+
+}
+
 class Solution {
-    long getNthUglyNo(int n) {
+    public static long getNthUglyNo(int n) {
        long dp[]=new long[n+1];
        dp[1]=1;
        int ptr1=1;
@@ -13,7 +28,7 @@ class Solution {
            long min=Math.min(val1,Math.min(val2,val3));
            dp[i]=min;
            //agr same number ko ptr many ptrs thne mtlb ki next ugy number ko dhoondo else 
-           //duplicacy hp jaegi
+           //duplicacy ho jaegi
            if(min==val1)
            ptr1++;
            if(min==val2)

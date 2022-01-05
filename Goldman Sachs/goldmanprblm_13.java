@@ -8,8 +8,7 @@ public class goldmanprblm_13 {
         while(t-- > 0){
             String s = in.readLine();
             
-            Solution ob = new Solution();
-            System.out.println(ob.decodedString(s));
+            System.out.println(Solution.decodedString(s));
         }
     }
 }

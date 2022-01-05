@@ -1,5 +1,21 @@
+import java.util.Scanner;
+
+class goldmanprblm_8{
+    public static void main(String[] args) {
+        try (Scanner scn = new Scanner(System.in)) {
+            String str = scn.next();
+
+            int res = Solution.CountWays(str);
+
+            System.out.println(res);
+
+        }
+        
+    }
+}
+
 class Solution{
-    public int CountWays(String str){
+    public static int CountWays(String str){
          int n = str.length();
          int[] dp = new int[n + 1];
  

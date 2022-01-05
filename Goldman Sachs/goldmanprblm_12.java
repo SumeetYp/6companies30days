@@ -11,7 +11,7 @@ import java.util.Scanner;
     8 x 8: 1 * 1 = 1 square.
     
     1^2 + 2^2 + 3^2 + ... + n^2 
-    it is a GP so using it's sum property = = n(n+1)(2n+1) / 6
+    it is a GP so using it's sum property = n(n+1)(2n+1) / 6
 */
 
 
