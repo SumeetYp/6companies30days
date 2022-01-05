@@ -1,38 +1,40 @@
-import java.util.Arrays;
-import java.util.Scanner;
+import java.util.*;
+import java.io.*;
 
 public class goldmanprblm_11 {
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(br.readLine().trim());
+        while (t-- > 0) {
+            int n = Integer.parseInt(br.readLine().trim());
+            String[] str = br.readLine().split(" ");
 
-    public static int[] find(int[] arr) {
-        int[] res = new int[2];
-        Arrays.sort(arr);
-
-        for(int i=0;i<arr.length-1;i++){
-            if(arr[i]!=i+1){
-                res[1] = i+1;
+            int[] a = new int[n];
+            for (int i = 0; i < n; i++) {
+                a[i] = Integer.parseInt(str[i]);
             }
-            if(arr[i]==arr[i+1]){
-                res[0] = arr[i];
-            }
-        }    
 
-        return res;
-    }
-
-
-
-    public static void main(String[] args) {
-        Scanner scn = new Scanner(System.in);
-        int n = scn.nextInt();
-        int[] arr = new int[n];
-
-        for(int i=0;i<n;i++){
-            arr[i] = scn.nextInt();
+            int[] ans = new Solve().findTwoElement(a, n);
+            System.out.println(ans[0] + " " + ans[1]);
         }
+    }
+}
 
-        int[] res = find(arr);
-        System.out.println(res[0] +  " "+ res[1]);
-
-
+class Solve {
+    int[] findTwoElement(int arr[], int n) {
+        int i=0;
+       int b[]=new int[n+1];
+       int c[]=new int[2];
+       while(i<=n-1){
+           b[arr[i]]++;
+           i++;
+       }
+       for(int j=1;j<=n; j++){
+           if(b[j]==2)
+             c[0]=j;
+           if(b[j]==0)
+            c[1]=j;
+       }
+       return c;
     }
 }
