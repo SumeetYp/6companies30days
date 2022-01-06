@@ -27,8 +27,6 @@ class Solution {
            long val3=dp[ptr3]*5;
            long min=Math.min(val1,Math.min(val2,val3));
            dp[i]=min;
-           //agr same number ko ptr many ptrs thne mtlb ki next ugy number ko dhoondo else 
-           //duplicacy ho jaegi
            if(min==val1)
            ptr1++;
            if(min==val2)
