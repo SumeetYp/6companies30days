@@ -9,13 +9,13 @@ public class ques2 {
         for(int i=0;i<n;i++){
             arr[i]= scn.nextInt();
         }
-
+        
         int res = Solution.longestMountain(arr);
         System.out.println(res);
     }
 }
-class Solution {
-    public static int longestMountain(int[] arr) {
+class Solution{
+    static int longestMountain(int[] arr) {
         
         int count = 0;
         int i = 0, j = 0;
