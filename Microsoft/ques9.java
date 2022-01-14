@@ -13,7 +13,7 @@ class Node{
     }
 }
 
-class ques9 {
+public class ques9 {
     
     static Node buildTree(String str){
         
