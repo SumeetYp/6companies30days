@@ -3,25 +3,25 @@
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.5em">Goldman Sachs (15/15)</summary>
+<summary style="font-size: 1.5em">Goldman-Sachs (15/15)</summary>
 
-Sr  | [Problems](./Goldman Sachs/README.md)                                                                                     | TryIt                                                                                                                  | Status
+Sr  | [Problems](./Goldman-Sachs/README.md)                                                                                     | TryIt                                                                                                                  | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------
-1   | [Print Anagrams Together](./Goldman Sachs/goldmanprblm_1.java)                                                     		| [Problem Link](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                              | ✅
-2   | [Overlapping Rectangles](./Goldman Sachs/goldmanprblm_2.java)                                                   			| [Problem Link](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                            | ✅
-3   | [Count the subarrays having product less than k](./Goldman Sachs/goldmanprblm_3.java)   									| [Problem Link](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)    | ✅
-4   | [Run Length Encoding](./Goldman Sachs/goldmanprblm_4.java)                                                             	| [Problem Link](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)                                   | ✅
-5   | [Ugly Number](./Goldman Sachs/goldmanprblm_5.java)                                                                        | [Problem Link](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                      | ✅
-6   | [Greatest Common Divisor of Strings](./Goldman Sachs/goldmanprblm_6.java)                               					| [Problem Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                    | ✅
-7   | [Find the position of M-th item](./Goldman Sachs/goldmanprblm_7.java)                                   					| [Problem Link](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                    | ✅
-8   | [Total Decoding Messages](./Goldman Sachs/goldmanprblm_8.java)                                                 			| [Problem Link](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                           | ✅
-9   | [Number following a pattern](./Goldman Sachs/goldmanprblm_9.java)                                           				| [Problem Link](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                        | ✅
-10  | [Max 10 numbers in a list having 10M entries](./Goldman Sachs/goldmanprblm_10.java)                                  		| [Problem Link](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                                 | ✅
-11  | [Find Missing And Repeating](./Goldman Sachs/goldmanprblm_11.java)                                           				| [Problem Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                       | ✅
-12  | [Squares in N*N Chessboard](./Goldman Sachs/goldmanprblm_12.java)                                              			| [Problem Link](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                           | ✅
-13  | [Decode the string](./Goldman Sachs/goldmanprblm_13.java)                                                             	| [Problem Link](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                                  | ✅
-14  | [Minimum Size Subarray Sum](./Goldman Sachs/goldmanprblm_14.java)                                                 		| [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/)                                             | ✅
-15  | [Array Pair Sum Divisibility Problem](./Goldman Sachs/goldmanprblm_15.java)                         						| [Problem Link](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)               | ✅
+1   | [Print Anagrams Together](./Goldman-Sachs/goldmanprblm_1.java)                                                     		| [Problem Link](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#)                              | ✅
+2   | [Overlapping Rectangles](./Goldman-Sachs/goldmanprblm_2.java)                                                   			| [Problem Link](https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/)                            | ✅
+3   | [Count the subarrays having product less than k](./Goldman-Sachs/goldmanprblm_3.java)   									| [Problem Link](https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/)    | ✅
+4   | [Run Length Encoding](./Goldman-Sachs/goldmanprblm_4.java)                                                             	| [Problem Link](https://practice.geeksforgeeks.org/problems/run-length-encoding/1/)                                   | ✅
+5   | [Ugly Number](./Goldman-Sachs/goldmanprblm_5.java)                                                                        | [Problem Link](https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/)                                      | ✅
+6   | [Greatest Common Divisor of Strings](./Goldman-Sachs/goldmanprblm_6.java)                               					| [Problem Link](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                    | ✅
+7   | [Find the position of M-th item](./Goldman-Sachs/goldmanprblm_7.java)                                   					| [Problem Link](https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1#)                    | ✅
+8   | [Total Decoding Messages](./Goldman-Sachs/goldmanprblm_8.java)                                                 			| [Problem Link](https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/)                           | ✅
+9   | [Number following a pattern](./Goldman-Sachs/goldmanprblm_9.java)                                           				| [Problem Link](https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1#)                        | ✅
+10  | [Max 10 numbers in a list having 10M entries](./Goldman-Sachs/goldmanprblm_10.java)                                  		| [Problem Link](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)                                 | ✅
+11  | [Find Missing And Repeating](./Goldman-Sachs/goldmanprblm_11.java)                                           				| [Problem Link](https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/#)                       | ✅
+12  | [Squares in N*N Chessboard](./Goldman-Sachs/goldmanprblm_12.java)                                              			| [Problem Link](https://practice.geeksforgeeks.org/problems/squares-in-nn-chessboard1801/1)                           | ✅
+13  | [Decode the string](./Goldman-Sachs/goldmanprblm_13.java)                                                             	| [Problem Link](https://practice.geeksforgeeks.org/problems/decode-the-string2444/1)                                  | ✅
+14  | [Minimum Size Subarray Sum](./Goldman-Sachs/goldmanprblm_14.java)                                                 		| [Problem Link](https://leetcode.com/problems/minimum-size-subarray-sum/)                                             | ✅
+15  | [Array Pair Sum Divisibility Problem](./Goldman-Sachs/goldmanprblm_15.java)                         						| [Problem Link](https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1#)               | ✅
 
 </details>
 
