@@ -28,7 +28,7 @@ Sr  | [Problems](./Goldman-Sachs/README.md)                                     
 <details>
 <summary style="font-size: 1.5em">Amazon (15/15)</summary>
 
-Sr  | [Problems](./Amazon/README.md)                                                                                | TryIt                                                                                                                  | Status
+Sr  | [Problems](./Amazon)                                                                                | TryIt                                                                                                                  | Status
 ----|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Maximum Profit](./Amazon/ques1.java)                                                                  		| [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-profit4657/1)                                     | ✅
 2   | [Longest Mountain in Array](./Amazon/ques2.java)                                            					| [Problem Link](https://leetcode.com/problems/longest-mountain-in-array/)                                             | ✅
@@ -51,7 +51,7 @@ Sr  | [Problems](./Amazon/README.md)                                            
 <details>
 <summary style="font-size: 1.5em">Microsoft (15/15)</summary>
 
-Sr  | [Problems](./Microsoft/README.md)                                                                     | TryIt                                                                                                                  | Status
+Sr  | [Problems](./Microsoft)                                                                     | TryIt                                                                                                                  | Status
 ----|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Minimum sum partition](./Microsoft/ques1.java)                                         				| [Problem Link](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | ✅
 2   | [Prerequisite Tasks](./Microsoft/ques2.java)                                               			| [Problem Link](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                    | ✅
@@ -77,7 +77,7 @@ Sr  | [Problems](./Microsoft/README.md)                                         
 <details>
 <summary style="font-size: 1.5em">Adobe (15/15)</summary>
 
-Sr  | [Problems](./Adobe/README.md)                                                                     									| TryIt                                                                                                                  							| Status
+Sr  | [Problems](./Adobe)                                                                     									| TryIt                                                                                                                  							| Status
 ----|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------
 1   | [Find a continuous sub-array which adds to a given number S](./Adobe/ques1.java)                                         				| [Problem Link](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1)                             						| ✅
 2   | [Find the length of the Longest Arithmetic Progression (LLAP) in it](./Adobe/ques2.java)                                              | [Problem Link](https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/)                                   				| ✅
@@ -97,6 +97,28 @@ Sr  | [Problems](./Adobe/README.md)                                             
 
 </details>
 
+<details>
+<summary style="font-size: 1.5em">Intuit (15/15)</summary>
+
+Sr  | [Problems](./Intuit)                                                                     						| TryIt                                                                                                                  				| Status
+----|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | [Partition a set into two subsets such that the difference of subset sums is minimum](./Intuit/ques1.java)    | [Problem Link](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)    | ✅
+2   | [Word Search](./Intuit/ques2.java)                                              								| [Problem Link](https://practice.geeksforgeeks.org/problems/word-search/1/)                                   							| ✅
+3   | [Find missing number in String](./Intuit/ques3.java)                                             				| [Problem Link](https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/)                               			| ✅
+4   | [Largest Number in K-Swaps](./Intuit/ques4.java)                           									| [Problem Link](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1)               						| ✅
+5   | [Split Array Largest Sum](./Intuit/ques5.java)                           										| [Problem Link](https://leetcode.com/problems/split-array-largest-sum/)                         										| ✅
+6   | [Find in Mountain Array](./Intuit/ques6.java)                 												| [Problem Link](https://leetcode.com/problems/find-in-mountain-array)           														| ✅
+7   | [Capacity to ship packages within d days](./Intuit/ques7.java)                  								| [Problem Link](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)             									| ✅
+8   | [Number of boomerangs](./Intuit/ques8.java)                             										| [Problem Link](https://leetcode.com/problems/number-of-boomerangs/)                           										| ✅
+9   | [Pacific Atlantic Water Flow](./Intuit/ques9.java) 															| [Problem Link](https://leetcode.com/problems/pacific-atlantic-water-flow/)             												| ✅
+10  | [Number of Provinces](./Intuit/ques10.java)                                                       			| [Problem Link](https://leetcode.com/problems/number-of-provinces/)    																| ✅
+11  | [Construct Quad tree](./Intuit/ques11.java)                                     								| [Problem Link](https://leetcode.com/problems/construct-quad-tree/)                    												| ✅
+12  | [Course Schedule II](./Intuit/ques12.java)                                 									| [Problem Link](https://leetcode.com/problems/course-schedule-ii/)                          											| ✅
+13  | [Minimum swaps to arrange a binary grid](./Intuit/ques13.java)                                         		| [Problem Link](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)                                   				| ✅
+14  | [As far from land as possible](./Intuit/ques14.java)                           								| [Problem Link](https://leetcode.com/problems/as-far-from-land-as-possible/)   														| ✅
+15  | [Koko eating bananas](./Intuit/ques15.java)        															| [Problem link](https://leetcode.com/problems/koko-eating-bananas/)   																	| ✅
+
+</details>
 
 
 

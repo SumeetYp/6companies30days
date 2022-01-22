@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class ques15 {
     public static String RecentString(String s1, String s2) {
 		int n=s1.length(); 
