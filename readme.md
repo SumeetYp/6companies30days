@@ -121,6 +121,30 @@ Sr  | [Problems](./Intuit)                                                      
 </details>
 
 
+<details>
+<summary style="font-size: 1.5em">Walmart (15/15)</summary>
+
+Sr  | [Problems](./Walmart)                                                                     					| TryIt                                                                                                                  				| Status
+----|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------
+1   | [Path with Maximum Probability](./Walmart/ques1.java)    														| [Problem Link](https://leetcode.com/problems/path-with-maximum-probability/)        													| ✅
+2   | [Stone Game](./Walmart/ques2.java)                                              								| [Problem Link](https://leetcode.com/problems/stone-game)                                   											| ✅
+3   | [Remove colored pieces if both neighbors are the same color](./Walmart/ques3.java)                            | [Problem Link](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)                              | ✅
+4   | [Number of Unique Paths](./Walmart/ques4.java)                           										| [Problem Link](https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/)               								| ✅
+5   | [Transform to Sum Tree](./Walmart/ques5.java)                           										| [Problem Link](https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/)                         							| ✅
+6   | [Power of Numbers](./Walmart/ques6.java)                 														| [Problem Link](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/)           									| ✅
+7   | [Sorted subsequence of size 3](./Walmart/ques7.java)                  										| [Problem Link](https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/)             								| ✅
+8   | [Maximum height-tree](./Walmart/ques8.java)                             										| [Problem Link](https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/)                           						| ✅
+9   | [Guess number higher or lower](./Walmart/ques9.java) 															| [Problem Link](https://leetcode.com/problems/guess-number-higher-or-lower-ii)             											| ✅
+10  | [Generate random point in a circle](./Walmart/ques10.java)                                                    | [Problem Link](https://leetcode.com/problems/generate-random-point-in-a-circle)    													| ✅
+11  | [Maximum Performance of a Team](./Walmart/ques11.java)                                     					| [Problem Link](https://leetcode.com/problems/maximum-performance-of-a-team)                    										| ✅
+12  | [Find array given subset sums](./Walmart/ques12.java)                                 						| [Problem Link](https://leetcode.com/problems/find-array-given-subset-sums)                          									| ✅
+13  | [Find the Kth Largest Integer in the Array](./Walmart/ques13.java)                                         	| [Problem Link](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array)                                   			| ✅
+14  | [Largest number in K swaps](./Walmart/ques14.java)                           									| [Problem Link](https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/)   								| ✅
+15  | [Divide two Integer](./Walmart/ques15.java)        															| [Problem link](https://leetcode.com/problems/divide-two-integers/)   																	| ✅
+
+</details>
+
+
 
 
 
